@@ -37,18 +37,6 @@ kagglehub>=0.1.0
 joblib>=1.2.0
 ```
 
-## Instalación
-
-1. Clonar el repositorio:
-```bash
-git clone [URL_DEL_REPOSITORIO]
-```
-
-2. Instalar dependencias:
-```bash
-pip install -r requirements.txt
-```
-
 ## Uso
 
 Para ejecutar la comparación de todos los modelos:
